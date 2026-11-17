@@ -1,8 +1,8 @@
 ### Hi, I'm Hamoud 🛰️
 
-Aerospace engineer who likes building things that help us understand what's happening in space: how satellites move, how we navigate with them, how we estimate their state, and how we measure the Earth and Moon from orbit.
+I'm an aerospace engineer with a background in astrodynamics, satellite navigation, and space systems. I enjoy working on problems that involve orbital mechanics, estimation, and simulation, especially when I can turn the theory into something practical.
 
-I'm interested in a wide slice of space work: astrodynamics and orbit determination, GNSS and space navigation, estimation and uncertainty, attitude dynamics, satellite geodesy, and space mission simulation. I try to write code that can be checked: tests, validation against reference results, and plots that show where a method works and where it doesn't.
+My interests span orbit determination, GNSS, satellite geodesy, attitude dynamics, and mission analysis. I use this space to share projects, tools, and experiments I've worked on, along with a few things I'm still figuring out.
 
 **Navigation**: [lunar-gnss-sim](https://github.com/OrbitAR7/lunar-gnss-sim) · [gnss-integrity-raim](https://github.com/OrbitAR7/gnss-integrity-raim) · [gnss-pseudorange-solver](https://github.com/OrbitAR7/gnss-pseudorange-solver) · [constellation-dop-analyzer](https://github.com/OrbitAR7/constellation-dop-analyzer)
 
