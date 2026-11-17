@@ -12,4 +12,3 @@ My interests span orbit determination, GNSS, satellite geodesy, attitude dynamic
 
 **Geodesy**: [gibbs-phenomenon-visualizer](https://github.com/OrbitAR7/gibbs-phenomenon-visualizer)
 
-More at [orbitar7.github.io](https://orbitar7.github.io)
