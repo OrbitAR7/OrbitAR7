@@ -6,9 +6,9 @@ My interests span orbit determination, GNSS, satellite geodesy, attitude dynamic
 
 **Navigation**: [GNSS Explain](https://github.com/OrbitAR7/GNSS_Explain) ([live demo](https://orbitar7.github.io/GNSS_Explain/)) · [lunar-gnss-sim](https://github.com/OrbitAR7/lunar-gnss-sim) · [gnss-integrity-raim](https://github.com/OrbitAR7/gnss-integrity-raim) · [gnss-pseudorange-solver](https://github.com/OrbitAR7/gnss-pseudorange-solver) · [constellation-dop-analyzer](https://github.com/OrbitAR7/constellation-dop-analyzer)
 
-**Estimation**: [EstimationToolkit.jl](https://github.com/OrbitAR7/EstimationToolkit.jl) · [attitude-triad-quest-mekf](https://github.com/OrbitAR7/attitude-triad-quest-mekf)
+**Estimation**: [EstimationToolkit.jl](https://github.com/OrbitAR7/EstimationToolkit.jl) · [mars-density-estimation](https://github.com/OrbitAR7/mars-density-estimation) · [eaf-explained](https://github.com/OrbitAR7/eaf-explained) · [attitude-triad-quest-mekf](https://github.com/OrbitAR7/attitude-triad-quest-mekf)
 
-**Astrodynamics & simulation**: [tle-sgp4-cpp](https://github.com/OrbitAR7/tle-sgp4-cpp) · [orbit-propagator-cpp](https://github.com/OrbitAR7/orbit-propagator-cpp) · [basilisk-link-budget](https://github.com/OrbitAR7/basilisk-link-budget)
+**Astrodynamics & simulation**: [orbital-mechanics-jl](https://github.com/OrbitAR7/orbital-mechanics-jl) · [terrasar-x-tube-control](https://github.com/OrbitAR7/terrasar-x-tube-control) · [tle-sgp4-cpp](https://github.com/OrbitAR7/tle-sgp4-cpp) · [orbit-propagator-cpp](https://github.com/OrbitAR7/orbit-propagator-cpp) · [basilisk-link-budget](https://github.com/OrbitAR7/basilisk-link-budget)
 
 **Geodesy**: [gibbs-phenomenon-visualizer](https://github.com/OrbitAR7/gibbs-phenomenon-visualizer)
 
